@@ -1,4 +1,4 @@
-# 👋 Olá Devs! Me chamo Adriel Auri!
+# 👋 Olá! Sou Adriel Auri!
 
 - Estudante de Desenvolvimento de Sistemas - Senai Bahia.
 - Fascinado por tecnologia desde criança.
