@@ -1,5 +1,7 @@
 # 👋 Olá! Sou Adriel Auri!
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AdrielAuri&color=blue" alt="Profile views" /> </p>
+
 - Estudante de Desenvolvimento de Sistemas - Senai Bahia.
 - Fascinado por tecnologia desde criança.
 - Sempre busco aprimorar minhas hard skills.
