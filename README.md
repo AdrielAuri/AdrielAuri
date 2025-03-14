@@ -3,8 +3,8 @@
 **`Desenvolvedor de Software`**
 
 - Estudante de Desenvolvimento de Sistemas - Senai Bahia.
-- Fascinado por tecnologia desde criança.
-- Sempre busco aprimorar minhas hard skills.
+- Fascinado por tecnologia.
+- Sempre busco aprimorar minhas habilidades técnicas.
 - Amo contribuir em projetos inovadores.
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdrielAuri)
