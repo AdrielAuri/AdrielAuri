@@ -32,7 +32,7 @@
 ---
 -->
 
-### 🚀 Tecnologias
+### 🚀 Linguagens e Tecnologias
 <div align="left">
   <img height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5"/>
   <img height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3"/>
