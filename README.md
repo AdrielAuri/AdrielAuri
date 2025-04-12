@@ -3,7 +3,7 @@
 <!--**`Desenvolvedor de Software`**-->
 
 <h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=19&center=false&vCenter=false&width=500&height=30&duration=6000&lines=Desenvolvedor%20De%20Solftware;&color=c9d0dd"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=19&center=false&vCenter=false&width=500&height=30&duration=6000&lines=Desenvolvedor%20De%20Software;&color=c9d0dd"/>
 </h1>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code.gif" width="20px">  Estudante de Desenvolvimento de Sistemas - Senai Bahia. <br>
