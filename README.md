@@ -12,7 +12,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code.gif" width="20px">  Amo contribuir em projetos inovadores. <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriel-auri-dev/) 
-[![Gmail](https://img.shields.io/badge/-adrielauri.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gabrielleribeiro2010@gmail.com)](mailto:gabrielleribeiro2010@gmail.com)
+[![Gmail](https://img.shields.io/badge/-adrielauri.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:adrielauri.dev@gmail.com)](https://mail.google.com/mail/u/5/#inbox?compose=CllgCHrkWCjvWghNRNvskMxSfrKcnQCTPWMFwGhWknRNpwpwSdtGKltKvwxqxkSQSZvLlFgkLcg)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/AdrielAuri/)
 
 ---
