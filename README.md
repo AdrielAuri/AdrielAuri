@@ -6,14 +6,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=19&center=false&vCenter=false&width=500&height=30&duration=5000&lines=Desenvolvedor%20De%20Software;&color=c9d0dd"/>
 </h1>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code.gif" width="20px">  Estudante de Desenvolvimento de Sistemas - Senai Bahia. <br>
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code.gif" width="20px">  Desenvolvedor de Software - Senai Bahia. <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code.gif" width="20px">  Fascinado por tecnologia. <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code.gif" width="20px">  Sempre busco aprimorar minhas habilidades técnicas. <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code.gif" width="20px">  Amo contribuir em projetos inovadores. <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriel-auri-dev/) 
 [![Gmail](https://img.shields.io/badge/-adrielauri.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:adrielauri.dev@gmail.com)](https://mail.google.com/mail/u/5/#inbox?compose=CllgCHrkWCjvWghNRNvskMxSfrKcnQCTPWMFwGhWknRNpwpwSdtGKltKvwxqxkSQSZvLlFgkLcg)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/AdrielAuri/)
+[![LeetCode](https://img.shields.io/badge/-BeeCrowd-FFA116?style=for-the-badge&logo=&logoColor=black)](https://judge.beecrowd.com/pt/profile/1106596)
 
 ---
 
@@ -48,5 +48,5 @@
 
 ### 📌 Projetos em Destaque
 [![GitHub Stat](https://github-readme-stats.vercel.app/api/pin/?username=AdrielAuri&repo=DesafioOneAlura-Amigo-Secreto&theme=dark)](https://github.com/AdrielAuri/DesafioOneAlura-Amigo-Secreto)
-[![GitHub Stat](https://github-readme-stats.vercel.app/api/pin/?username=AdrielAuri&repo=Projeto-Game-Sudoku&theme=dark)](https://github.com/AdrielAuri/Projeto-Game-Sudoku)
+<!--[![GitHub Stat](https://github-readme-stats.vercel.app/api/pin/?username=AdrielAuri&repo=Projeto-Game-Sudoku&theme=dark)](https://github.com/AdrielAuri/Projeto-Game-Sudoku)-->
 
