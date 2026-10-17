@@ -48,5 +48,5 @@
 
 ### 📌 Projetos em Destaque
 [![GitHub Stat](https://github-readme-stats.vercel.app/api/pin/?username=AdrielAuri&repo=DesafioOneAlura-Amigo-Secreto&theme=dark)](https://github.com/AdrielAuri/DesafioOneAlura-Amigo-Secreto)
-<!--[![GitHub Stat](https://github-readme-stats.vercel.app/api/pin/?username=AdrielAuri&repo=Projeto-Game-Sudoku&theme=dark)](https://github.com/AdrielAuri/Projeto-Game-Sudoku)-->
+[![GitHub Stat](https://github-readme-stats.vercel.app/api/pin/?username=AdrielAuri&repo=Projeto-RESTAURANT&theme=dark)](https://github.com/AdrielAuri/Projeto-RESTAURANTE)
 
